@@ -134,3 +134,7 @@ Building a real-time game entirely in PIC assembly, on 368 bytes of RAM, with no
 
 Developed by **Abeet Paul Singh Bali** and **Vivaan Goel** as the EC-304 Embedded Systems project at Delhi Technological University, under the supervision of **Mr. Vinay Kumar (Assistant Professor, Dept. of ECE)**.
 
+
+## Update 2
+
+For a demo video, refer to https://youtu.be/RdwyjQI84KU
